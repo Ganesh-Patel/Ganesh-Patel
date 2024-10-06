@@ -3,8 +3,8 @@
 I'm **Ganesh Patel**, a passionate developer from India.
 ---
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kishlaychandan&show_icons=true&theme=radical" alt="Kishlay's GitHub Stats" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishlaychandan&layout=compact&theme=radical" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ganesh Patel&show_icons=true&theme=radical" alt="Kishlay's GitHub Stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh Patel&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </div>
 ---
 ### :bar_chart: GitHub Profile Summary
