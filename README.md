@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Ganesh-Patel&style=flat-square&color=blue" alt="Profile Views"/>
+<img align="center"  src="https://komarev.com/ghpvc/?username=Ganesh-Patel&style=flat-square&color=blue" alt="Profile Views"/>
 
 <h1 align="center">
   Hey there
