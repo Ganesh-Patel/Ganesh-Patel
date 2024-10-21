@@ -58,7 +58,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 <div align="center">
   <a href="https://github.com/Ganesh-Patel">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Ganesh-Patel&theme=dark&background=000000" alt="GitHub Streak"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ganesh-Patel&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/Ganesh-Patel">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Patel&layout=compact&theme=dark&background=000000" alt="Top Languages"/>
