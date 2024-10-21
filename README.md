@@ -56,12 +56,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-<div align="center">
+<div align="left">
   <a href="https://github.com/Ganesh-Patel">
    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ganesh-Patel&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
-<div align="center">
+<div align="left">
   <a href="https://github.com/Ganesh-Patel">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Patel&layout=compact&theme=dark&background=000000" alt="Top Languages"/>
   </a>
