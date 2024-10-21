@@ -10,7 +10,7 @@
   </a>
 </div>
 <div id="badges" align="center">
-  <img align="center"  src="https://komarev.com/ghpvc/?username=[Ganesh-Patel](https://github.com/Ganesh-Patel)&style=flat-square&color=blue" alt="Profile Views"/>
+  <img align="center"  src="https://komarev.com/ghpvc/?username=Ganesh-Patel&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 <h1 align="center">
